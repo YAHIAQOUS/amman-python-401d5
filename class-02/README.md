@@ -22,7 +22,6 @@ Today we learn about Test Driven Development with PyTest, and deepen our underst
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
 - Code Review
 - [Modules, Packages, Importing, and Namespaces]
 - [Python Containers and Looping]
