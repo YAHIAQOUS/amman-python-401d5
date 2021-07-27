@@ -1,6 +1,11 @@
 # Intro to Python
 
 Introduction to Python Language
+
+## Learning Objectives
+
+### Students will be able to
+
 #### Describe and Define
 
 - Python scripts & modules
@@ -20,6 +25,7 @@ Introduction to Python Language
 
 ## Today's Outline
 
+<!-- To Be Completed By Instructor -->
 - Kick-off and Introductions
 - Course Overview
 - Setting up Python and Poetry

@@ -6,10 +6,6 @@ Today we'll be creating a Madlib game that reads in a template file and writes a
 
 Will also handle exceptions as well as test that they are properly raised.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - How python performs file input/output
@@ -28,5 +24,10 @@ Will also handle exceptions as well as test that they are properly raised.
 - Testing exceptions
 
 ## Today's Outline
-
-> Instructor to add. See facilitator guide for details.
+- Lab 1 - Abudullah
+- Code Code Challenge - Omar
+- Break
+- Lab Preview
+- Demo
+- Break
+- Question and Answers

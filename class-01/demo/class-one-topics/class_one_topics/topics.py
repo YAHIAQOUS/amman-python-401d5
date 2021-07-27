@@ -28,15 +28,17 @@ def input_output():
 
     runnerup_color = input("What's your second favorite color? ")
 
-    faves_template = "Your two favorite colors are {} and {}. Great combo!".format(color_response, formatted_string)
+    faves_template = "Your two favorite colors are {} and {}. Great combo!"
 
     print(faves_template)
 
-    print(faves_template.format(color, runnerup_color))
+    values_inserted = faves_template.format(color_response, runnerup_color)
+
+    print(values_inserted)
 
 
 def string_methods():
-    print("sometimes you have a string with whitespace around it that you want trimmed")
+    print("When a string has whitespace around it that you want trimmed")
 
     print("Python has a lot of nice built in methods for stuff like that")
 
@@ -83,7 +85,10 @@ print("I am a module and this print is outside of a function")
 if __name__ == "__main__":
     print("I was executed directly as a 'script'")
     print(
-        "Try making an 'importer.py' script that imports from me and see what happens"
+        """
+        Try making an 'importer.py' script
+        that imports 'script_vs_module function
+        from this script and see what happens
+        """
     )
     print("When you're done here head over to next demo and we'll play a game")
-

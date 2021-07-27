@@ -11,8 +11,10 @@ things = [
         "hints": [
             "bigger than a bread box",
             "rectangular",
-            "tells you something",
             "changes periodically",
+            "tells you something",
+            "sells you something",
+            "often see them in a rush",
         ],
     },
     {
@@ -24,41 +26,58 @@ things = [
             "avoid electric ones",
         ],
     },
+    {
+        "name": "???",
+        "hints": [
+            "copies what you do",
+            "is always changing color",
+            "careful or it will bring you bad luck",
+            "never lies to you",
+            "fine with mom but not with mama",
+        ],
+    },
 ]
 
 
 def guess_a_thing(riddle_index):
+
     thing = things[riddle_index]
+
     success = False
 
     guess = input("I spy with my little eye... ")
 
-    while len(thing["hints"]):
+    hints = thing["hints"]
 
-        if guess == thing["name"]:
+    correct_answer = thing["name"]
+
+    while len(hints):
+
+        if guess == correct_answer:
             success = True
             break
 
-        hint = thing["hints"].pop(0)
+        hint = hints.pop(0)
 
         print(f"Nope, but here's a hint - {hint}")
 
         guess = input("I spy with my little eye... ")
 
-    if success or guess == thing["name"]:
+    if success or guess == correct_answer:
         print("Crushed it")
     else:
-        print(f"Too bad. It's a {thing['name']}")
+        print(f"Too bad. It's a {correct_answer}")
 
 
 if __name__ == "__main__":
     riddle_index = 0
 
     response = ""
-    while response.lower() != "n":
+    while response != "n":
         guess_a_thing(riddle_index)
-        response = input("Wanna play?")
         riddle_index += 1
+        if riddle_index > 1:
+            break
+        response = input("Wanna play?")
 
     print("Thanks for playing!")
-
