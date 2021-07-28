@@ -30,12 +30,10 @@
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
-- Challenge Review
-- Challege Preview
 - Lab Review
 - Lab Preview
-- Guided Research
+- Challenge Review
+- Challenge Preview
 - Demo
 
 ## Links
