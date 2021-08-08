@@ -4,10 +4,6 @@ Python has a vibrant community of Data Science professionals and enthusiasts. Th
 
 The tool of choice for most are Jupyter Notebooks.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Different categories under Data Science umbrella
