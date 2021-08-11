@@ -16,8 +16,6 @@ Today you'll be telling a story visually. Choose 2 datasets from Kaggle (or buil
 - Notebook should have professional polish
   - In other words, imagine you are presenting it on the job. 
 
-## Implementation Notes
-
 ### User Acceptance Tests
 
 - No automated tests

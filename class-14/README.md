@@ -22,4 +22,14 @@ Today we'll focus on telling the story of our data analysis visually.
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Warm Up
+- Pitch Practice
+    - Haya
+    - Abdullah
+- Whiteboard
+    - Mohammad Noor Jabreen  
+- Code Reviews
+- Mid-Terms
+- Data Visualization
+    - Seaborn Demo
+- Lab Preview
