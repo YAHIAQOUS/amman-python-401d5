@@ -3,11 +3,6 @@
 A (pretty) picture tells a thousand words.
 
 Today we'll focus on telling the story of our data analysis visually.
-
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Available visualization libraries.
@@ -30,6 +25,6 @@ Today we'll focus on telling the story of our data analysis visually.
     - Mohammad Noor Jabreen  
 - Code Reviews
 - Mid-Terms
+- Lab Preview
 - Data Visualization
     - Seaborn Demo
-- Lab Preview
