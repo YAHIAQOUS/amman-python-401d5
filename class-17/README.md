@@ -4,14 +4,10 @@ We can consume web sites with our eyes, ears and fingers. But how about getting 
 
 If a service exposes an API then you're good to go. But what if they haven't? That's where web scraping comes in.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Why to scrape a web site
-- Legal pespectives on web scraping
+- Legal perspectives on web scraping
 - Challenges of web scraping
 
 #### Execute
@@ -20,6 +16,17 @@ If a service exposes an API then you're good to go. But what if they haven't? Th
 - Inspect a web pages content to determine an effective scraping method
 - Execute web scraper from CLI
 
+## DSA Feedback
+
+- Linked List
+- Stacks and Queues
+    - Animal Shelter CC
+
+
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Pitch Practice
+- Whiteboard
+- Reviews
+- Web Scraping Demo
+- Machine Learning

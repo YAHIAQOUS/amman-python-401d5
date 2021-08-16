@@ -6,10 +6,6 @@ As computing resources become cheaper we can "train" our algorithms do make pred
 
 In the old days the the cost of computing power was prohibitive, so it was expensive to allow our algorithms to "learn by doing."
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Where Machine Learning fits in broader field of Artificial Intelligence.
@@ -23,5 +19,8 @@ In the old days the the cost of computing power was prohibitive, so it was expen
 - Collect data from remote data sets.
 
 ## Today's Outline
+ - Midterms
+ - Pitch Practice
+  - Maram
+  - Omar
 
-<!-- To Be Completed By Instructor -->
