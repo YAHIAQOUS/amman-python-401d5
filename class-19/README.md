@@ -6,10 +6,6 @@ What might you want to automate? As much as possible of course!
 
 As a developer, if you find yourself doing the same manual steps repeatedly then stop for a second and think if the upfront cost of automation could pay off.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Ways that Python can "automate the boring stuff"
@@ -24,4 +20,12 @@ As a developer, if you find yourself doing the same manual steps repeatedly then
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Pitch Practice
+ - Ahmed Abudames (Again because Laith didn't choose someone to follow him)
+ - Roaa
+- Reviews
+    - Algorithm and Test
+        - Psuedo Queue - Nura
+        - Tests - Psuedo Queue - Laith
+    - Lab Review
+- Automation Demo and Lecture

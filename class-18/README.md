@@ -2,10 +2,6 @@
 
 Keeping secrets with Cryptography.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Cryptography
@@ -21,4 +17,14 @@ Keeping secrets with Cryptography.
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+ - Pitch Practice
+    - Nura
+    - Laith
+ - Review
+ - Cryptography
+ - Whiteboard w/ Nadeem
+
+# Notes
+ - ASCII
+   - Maps numbers to characters
+   - use `ord()` and `chr()`
