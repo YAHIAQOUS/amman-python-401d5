@@ -27,5 +27,5 @@ As a developer, if you find yourself doing the same manual steps repeatedly then
     - Algorithm and Test
         - Psuedo Queue - Nura
         - Tests - Psuedo Queue - Laith
-    - Lab Review
+    - Challenge Review
 - Automation Demo and Lecture

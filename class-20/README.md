@@ -120,3 +120,9 @@ Why a deck? It's a helpful tool to keep you on time and on focus. Also, you will
 - Solve a real business or community problem
 - Deliver something desirable (make it rock!)
 - Don't over-complicate. Sometimes, the simplest solution can be the most scalable and stable. Favor stability and tightness over wizardry
+
+
+# Regex 
+How to write the regular expressions to match phone numbers with regex in python?
+
+(4444)1234-5678
