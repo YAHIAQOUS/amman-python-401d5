@@ -6,10 +6,6 @@ Python has some great tools in this space.
 
 We'll be learning the most popular one, Django.
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - What is an "opinionated" framework
@@ -26,4 +22,11 @@ We'll be learning the most popular one, Django.
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+- Warm Up (10 mins)
+- Feedback
+    - What's on your mind
+- First Half Review
+- Lab Preview
+- Demo
+- Lab Preview Circle
+- Project Feedback
